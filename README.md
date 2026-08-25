@@ -1,6 +1,6 @@
 # IronWallet Assets
 
-Centralized repository for IronWallet blockchain asset definitions and static application resources. It contains blockchain metadata, network configurations, and shared resources used across wallet clients and services. [web:2][web:16]
+Centralized repository for IronWallet blockchain asset definitions and static application resources. It contains blockchain metadata, network configurations, and shared resources used across wallet clients and services.
 
 ## Purpose
 
