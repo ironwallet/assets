@@ -1,0 +1,25 @@
+{
+  "name": "Iron Wallet: Bitcoin Test",
+  "logoUri": "",
+  "timestamp": "2022-12-01T15:38:12Z",
+  "status": "active",
+  "assets": [
+    {
+      "chainId": 5,
+      "asset_id": "cli8p14jc000008mghh4j7e05",
+      "externalId": "bitcoin",
+      "name": "Bitcoin Test",
+      "symbol": "BTC",
+      "decimals": 8,
+      "logoUri": "dev_assets/cli8p14jc000008mghh4j7e05/logo.png",
+      "status": "active",
+      "default": true,
+      "displayDecimals": 6
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 12
+  }
+}

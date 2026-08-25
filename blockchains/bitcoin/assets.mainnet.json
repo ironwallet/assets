@@ -1,0 +1,25 @@
+{
+  "name": "Iron Wallet: Bitcoin",
+  "logoUri": "",
+  "timestamp": "2023-06-01T19:39:46.551Z",
+  "status": "active",
+  "assets": [
+    {
+      "chainId": 1,
+      "asset_id": "cl6w3mh9v0006m4g5gk4e1y97",
+      "externalId": "bitcoin",
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "decimals": 8,
+      "logoUri": "assets/cl6w3mh9v0006m4g5gk4e1y97/logo.png",
+      "status": "active",
+      "default": true,
+      "displayDecimals": 6
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 8
+  }
+}

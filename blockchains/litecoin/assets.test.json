@@ -1,0 +1,25 @@
+{
+  "name": "Iron Wallet: Litecoin Test",
+  "logoUri": "",
+  "timestamp": "2026-07-30T07:13:23.535Z",
+  "status": "active",
+  "assets": [
+    {
+      "chainId": 5,
+      "asset_id": "cms76e6000003esfmzgnw36en",
+      "externalId": "litecoin",
+      "name": "Litecoin Test",
+      "symbol": "LTC",
+      "decimals": 8,
+      "logoUri": "dev_assets/cms76e6000003esfmzgnw36en/logo.png",
+      "status": "active",
+      "default": true,
+      "displayDecimals": 6
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}
