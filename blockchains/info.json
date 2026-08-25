@@ -1,0 +1,312 @@
+{
+  "versions": [
+    {
+      "blockchain": "ethereum",
+      "chainId": 11155111,
+      "list": "assets.sepolia.json",
+      "timestamp": "2024-06-19T00:54:28Z",
+      "version": {
+        "major": 0,
+        "minor": 1,
+        "patch": 6
+      }
+    },
+    {
+      "blockchain": "ethereum",
+      "chainId": 1,
+      "list": "assets.mainnet.json",
+      "timestamp": "2026-06-25T11:38:51.736Z",
+      "version": {
+        "major": 0,
+        "minor": 6,
+        "patch": 3
+      }
+    },
+    {
+      "blockchain": "bitcoin",
+      "chainId": 5,
+      "list": "assets.test.json",
+      "timestamp": "2023-05-16T15:36:28Z",
+      "version": {
+        "major": 0,
+        "minor": 1,
+        "patch": 7
+      }
+    },
+    {
+      "blockchain": "bitcoin",
+      "chainId": 1,
+      "list": "assets.mainnet.json",
+      "timestamp": "2026-02-18T11:46:07.865Z",
+      "version": {
+        "major": 0,
+        "minor": 1,
+        "patch": 7
+      }
+    },
+    {
+      "blockchain": "bsc",
+      "chainId": 97,
+      "list": "assets.testnet.json",
+      "timestamp": "2023-05-16T15:36:28Z",
+      "version": {
+        "major": 0,
+        "minor": 0,
+        "patch": 8
+      }
+    },
+    {
+      "blockchain": "bsc",
+      "chainId": 56,
+      "list": "assets.mainnet.json",
+      "timestamp": "2026-05-29T08:50:59.141Z",
+      "version": {
+        "major": 0,
+        "minor": 3,
+        "patch": 2
+      }
+    },
+    {
+      "blockchain": "tron",
+      "chainId": 5,
+      "list": "assets.testnet.json",
+      "timestamp": "2024-05-27T17:16:22Z",
+      "version": {
+        "major": 0,
+        "minor": 1,
+        "patch": 4
+      }
+    },
+    {
+      "blockchain": "tron",
+      "chainId": 1,
+      "list": "assets.mainnet.json",
+      "timestamp": "2026-06-25T11:38:59.483Z",
+      "version": {
+        "major": 0,
+        "minor": 2,
+        "patch": 7
+      }
+    },
+    {
+      "blockchain": "avalanche",
+      "chainId": 43113,
+      "list": "assets.testnet.json",
+      "timestamp": "2023-05-16T15:36:28Z",
+      "version": {
+        "major": 0,
+        "minor": 0,
+        "patch": 6
+      }
+    },
+    {
+      "blockchain": "avalanche",
+      "chainId": 43114,
+      "list": "assets.mainnet.json",
+      "timestamp": "2026-02-18T11:46:07.865Z",
+      "version": {
+        "major": 0,
+        "minor": 2,
+        "patch": 2
+      }
+    },
+    {
+      "blockchain": "polygon",
+      "chainId": 80002,
+      "list": "assets.testnet.json",
+      "timestamp": "2023-07-31T15:36:28Z",
+      "version": {
+        "major": 0,
+        "minor": 0,
+        "patch": 9
+      }
+    },
+    {
+      "blockchain": "polygon",
+      "chainId": 137,
+      "list": "assets.mainnet.json",
+      "timestamp": "2026-02-18T11:46:07.865Z",
+      "version": {
+        "major": 0,
+        "minor": 3,
+        "patch": 2
+      }
+    },
+    {
+      "blockchain": "solana",
+      "chainId": 5,
+      "list": "assets.testnet.json",
+      "timestamp": "2024-05-21T15:36:28Z",
+      "version": {
+        "major": 0,
+        "minor": 1,
+        "patch": 2
+      }
+    },
+    {
+      "blockchain": "solana",
+      "chainId": 1,
+      "list": "assets.mainnet.json",
+      "timestamp": "2026-06-25T11:45:59.041Z",
+      "version": {
+        "major": 0,
+        "minor": 4,
+        "patch": 4
+      }
+    },
+    {
+      "blockchain": "arbitrum",
+      "chainId": 421614,
+      "list": "assets.testnet.json",
+      "timestamp": "2024-02-22T08:00:39.767Z",
+      "version": {
+        "major": 0,
+        "minor": 0,
+        "patch": 4
+      }
+    },
+    {
+      "blockchain": "arbitrum",
+      "chainId": 42161,
+      "list": "assets.mainnet.json",
+      "timestamp": "2026-02-18T11:46:07.865Z",
+      "version": {
+        "major": 0,
+        "minor": 1,
+        "patch": 1
+      }
+    },
+    {
+      "blockchain": "ton",
+      "chainId": 5,
+      "list": "assets.testnet.json",
+      "timestamp": "2026-06-24T08:50:43.000Z",
+      "version": {
+        "major": 0,
+        "minor": 0,
+        "patch": 6
+      }
+    },
+    {
+      "blockchain": "ton",
+      "chainId": 1,
+      "list": "assets.mainnet.json",
+      "timestamp": "2026-06-24T08:50:43.000Z",
+      "version": {
+        "major": 0,
+        "minor": 1,
+        "patch": 4
+      }
+    },
+    {
+      "blockchain": "optimism",
+      "chainId": 11155420,
+      "list": "assets.testnet.json",
+      "timestamp": "2024-08-23T00:00:00.767Z",
+      "version": {
+        "major": 0,
+        "minor": 1,
+        "patch": 3
+      }
+    },
+    {
+      "blockchain": "optimism",
+      "chainId": 10,
+      "list": "assets.mainnet.json",
+      "timestamp": "2026-02-18T11:46:07.865Z",
+      "version": {
+        "major": 0,
+        "minor": 2,
+        "patch": 0
+      }
+    },
+    {
+      "blockchain": "xrp",
+      "chainId": 14490001,
+      "list": "assets.testnet.json",
+      "timestamp": "2024-09-23T00:00:00.767Z",
+      "version": {
+        "major": 0,
+        "minor": 0,
+        "patch": 4
+      }
+    },
+    {
+      "blockchain": "xrp",
+      "chainId": 14400021,
+      "list": "assets.mainnet.json",
+      "timestamp": "2025-12-09T10:11:08.887Z",
+      "version": {
+        "major": 0,
+        "minor": 0,
+        "patch": 5
+      }
+    },
+    {
+      "blockchain": "base",
+      "chainId": 84532,
+      "list": "assets.sepolia.json",
+      "timestamp": "2026-02-06T09:46:08.887Z",
+      "version": {
+        "major": 0,
+        "minor": 0,
+        "patch": 7
+      }
+    },
+    {
+      "blockchain": "base",
+      "chainId": 8453,
+      "list": "assets.mainnet.json",
+      "timestamp": "2026-03-11T09:46:08.887Z",
+      "version": {
+        "major": 0,
+        "minor": 1,
+        "patch": 9
+      }
+    },
+    {
+      "blockchain": "dogecoin",
+      "chainId": 5,
+      "list": "assets.test.json",
+      "timestamp": "2026-07-30T07:13:58.631Z",
+      "version": {
+        "major": 0,
+        "minor": 0,
+        "patch": 1
+      }
+    },
+    {
+      "blockchain": "dogecoin",
+      "chainId": 1,
+      "list": "assets.mainnet.json",
+      "timestamp": "2026-07-30T07:13:58.631Z",
+      "version": {
+        "major": 0,
+        "minor": 0,
+        "patch": 1
+      }
+    },
+    {
+      "blockchain": "litecoin",
+      "chainId": 5,
+      "list": "assets.test.json",
+      "timestamp": "2026-07-30T07:13:58.631Z",
+      "version": {
+        "major": 0,
+        "minor": 0,
+        "patch": 1
+      }
+    },
+    {
+      "blockchain": "litecoin",
+      "chainId": 1,
+      "list": "assets.mainnet.json",
+      "timestamp": "2026-07-30T07:13:58.631Z",
+      "version": {
+        "major": 0,
+        "minor": 0,
+        "patch": 1
+      }
+    }
+  ]
+}
