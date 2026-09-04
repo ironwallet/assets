@@ -2081,15 +2081,60 @@
             "status": "active",
             "symbol": "wfrax",
             "type": "Avalanche"
+        },
+        {
+            "address": "0x77146784315Ba81904d654466968e3a7c196d1f3",
+            "asset_id": "cmtlqc1nz00w5qcfmd4iys3ss",
+            "chainId": 43114,
+            "decimals": 18,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://snowtrace.io/token/0x77146784315ba81904d654466968e3a7c196d1f3",
+            "externalId": "treehouse",
+            "logoUri": "assets/cmtlqc1nz00w5qcfmd4iys3ss/logo.png",
+            "name": "Treehouse",
+            "status": "active",
+            "symbol": "tree",
+            "type": "Avalanche"
+        },
+        {
+            "address": "0xb6314518b61b4864162c7aE7fdc36261e0A14C4b",
+            "asset_id": "cmtlqc1nz00wbqcfmt8s81ay1",
+            "chainId": 43114,
+            "decimals": 18,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://snowtrace.io/token/0xb6314518b61b4864162c7ae7fdc36261e0a14c4b",
+            "externalId": "yom",
+            "logoUri": "assets/cmtlqc1nz00wbqcfmt8s81ay1/logo.png",
+            "name": "YOM",
+            "status": "active",
+            "symbol": "yom",
+            "type": "Avalanche"
+        },
+        {
+            "address": "0x9b4Db2271EB1fa0aEe1abA7ed55E51C38cE514a3",
+            "asset_id": "cmtlqc1nz00wiqcfmxn50037q",
+            "chainId": 43114,
+            "decimals": 18,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://snowtrace.io/token/0x9b4db2271eb1fa0aee1aba7ed55e51c38ce514a3",
+            "externalId": "space-exploration-technologies-dinari-tokenized-stock",
+            "logoUri": "assets/cmtlqc1nz00wiqcfmxn50037q/logo.png",
+            "name": "Space Exploration Technologies (Dinari Tokenized Stock)",
+            "status": "active",
+            "symbol": "spcx",
+            "type": "Avalanche"
         }
     ],
     "logoUri": "",
     "name": "Iron Wallet: Avalanche Mainnet",
     "status": "active",
-    "timestamp": "2026-02-18T11:08:54.830Z",
+    "timestamp": "2026-09-04T08:33:49.197Z",
     "version": {
         "major": 0,
         "minor": 2,
-        "patch": 2
+        "patch": 3
     }
 }
