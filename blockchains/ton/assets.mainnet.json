@@ -581,15 +581,60 @@
             "status": "active",
             "symbol": "tower",
             "type": "Ton"
+        },
+        {
+            "address": "EQCC5gekxblLuT3e93IQh5B3xxjE3mSausRejiB4WFTK3yUC",
+            "asset_id": "cmtlqk80p01cmqcfms4sf1gve",
+            "chainId": 1,
+            "decimals": 8,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://tonscan.org/address/EQCC5gekxblLuT3e93IQh5B3xxjE3mSausRejiB4WFTK3yUC",
+            "externalId": "vida-global-xstock",
+            "logoUri": "assets/cmtlqk80p01cmqcfms4sf1gve/logo.png",
+            "name": "Vida Global xStock",
+            "status": "active",
+            "symbol": "vidax",
+            "type": "Ton"
+        },
+        {
+            "address": "EQCWDj49HFInSwSk49eAo476E1YBywLoFuSZ6OO3x7jmP2jn",
+            "asset_id": "cmtlqk80p01cqqcfmgq8s2ejt",
+            "chainId": 1,
+            "decimals": 9,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://tonscan.org/address/EQCWDj49HFInSwSk49eAo476E1YBywLoFuSZ6OO3x7jmP2jn",
+            "externalId": "baby-doge-coin",
+            "logoUri": "assets/cmtlqk80p01cqqcfmgq8s2ejt/logo.png",
+            "name": "Baby Doge Coin",
+            "status": "active",
+            "symbol": "babydoge",
+            "type": "Ton"
+        },
+        {
+            "address": "EQDs4k7PSAH3nuXw3bXPEZ7aFatcejkKrf_Mi4Cv3-yLAmuG",
+            "asset_id": "cmtlqk80p01cvqcfmf3u98xdx",
+            "chainId": 1,
+            "decimals": 8,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://tonscan.org/address/EQDs4k7PSAH3nuXw3bXPEZ7aFatcejkKrf_Mi4Cv3-yLAmuG",
+            "externalId": "broadcom-xstock",
+            "logoUri": "assets/cmtlqk80p01cvqcfmf3u98xdx/logo.png",
+            "name": "Broadcom xStock",
+            "status": "active",
+            "symbol": "avgox",
+            "type": "Ton"
         }
     ],
     "logoUri": "",
     "name": "Iron Wallet: Ton",
     "status": "active",
-    "timestamp": "2026-02-18T11:23:54.887Z",
+    "timestamp": "2026-09-04T08:33:49.197Z",
     "version": {
         "major": 0,
-        "minor": 0,
-        "patch": 10
+        "minor": 1,
+        "patch": 5
     }
 }

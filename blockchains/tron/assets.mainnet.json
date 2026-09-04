@@ -566,15 +566,90 @@
             "status": "active",
             "symbol": "u",
             "type": "TRC20"
+        },
+        {
+            "address": "TXUi9vL8Ltz4dVpC6RM8CdtKSTHxFZuFbz",
+            "asset_id": "cmtlqbjde00usqcfm9vfgjaq3",
+            "chainId": 1,
+            "decimals": 18,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://tronscan.org/#/token20/TXUi9vL8Ltz4dVpC6RM8CdtKSTHxFZuFbz",
+            "externalId": "royal-euro",
+            "logoUri": "assets/cmtlqbjde00usqcfm9vfgjaq3/logo.png",
+            "name": "Royal Euro",
+            "status": "active",
+            "symbol": "reur",
+            "type": "TRC20"
+        },
+        {
+            "address": "TNMR6r9Z4cL7eWNrNQ4e4sm2XPhhifexZU",
+            "asset_id": "cmtlqbjde00uxqcfm7tetvsiq",
+            "chainId": 1,
+            "decimals": 18,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://tronscan.org/#/token20/TNMR6r9Z4cL7eWNrNQ4e4sm2XPhhifexZU",
+            "externalId": "nvidia-xstock",
+            "logoUri": "assets/cmtlqbjde00uxqcfm7tetvsiq/logo.png",
+            "name": "NVIDIA xStock",
+            "status": "active",
+            "symbol": "nvdax",
+            "type": "TRC20"
+        },
+        {
+            "address": "TUPM7K8REVzD2UdV4R5fe5M8XbnR2DdoJ6",
+            "asset_id": "cmtlqbjde00v0qcfmpahhpjb8",
+            "chainId": 1,
+            "decimals": 18,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://tronscan.org/#/token20/TUPM7K8REVzD2UdV4R5fe5M8XbnR2DdoJ6",
+            "externalId": "htx-dao",
+            "logoUri": "assets/cmtlqbjde00v0qcfmpahhpjb8/logo.png",
+            "name": "HTX DAO",
+            "status": "active",
+            "symbol": "htx",
+            "type": "TRC20"
+        },
+        {
+            "address": "TN3cfcFhLrdNZhMdHZVZ4z2XFWb7uB9CXg",
+            "asset_id": "cmtlqbjde00v5qcfm2cmun54z",
+            "chainId": 1,
+            "decimals": 18,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://tronscan.org/#/token20/TN3cfcFhLrdNZhMdHZVZ4z2XFWb7uB9CXg",
+            "externalId": "kyrgyz-som-stablecoin",
+            "logoUri": "assets/cmtlqbjde00v5qcfm2cmun54z/logo.png",
+            "name": "Kyrgyz Som Stablecoin",
+            "status": "active",
+            "symbol": "kgst",
+            "type": "TRC20"
+        },
+        {
+            "address": "TDfX64Ariz5usffBJjtDbiMuCXVpKiDCEb",
+            "asset_id": "cmtlqbjde00v6qcfmdi3ytqve",
+            "chainId": 1,
+            "decimals": 18,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://tronscan.org/#/token20/TDfX64Ariz5usffBJjtDbiMuCXVpKiDCEb",
+            "externalId": "matrixdock-gold",
+            "logoUri": "assets/cmtlqbjde00v6qcfmdi3ytqve/logo.png",
+            "name": "Matrixdock Gold",
+            "status": "active",
+            "symbol": "xaum",
+            "type": "TRC20"
         }
     ],
     "logoUri": "",
     "name": "Iron Wallet: Tron",
     "status": "active",
-    "timestamp": "2026-05-28T11:59:32.132Z",
+    "timestamp": "2026-09-04T08:33:49.197Z",
     "version": {
         "major": 0,
         "minor": 2,
-        "patch": 6
+        "patch": 8
     }
 }
