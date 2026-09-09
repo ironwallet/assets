@@ -169,11 +169,11 @@
       "blockchain": "arbitrum",
       "chainId": 42161,
       "list": "assets.mainnet.json",
-      "timestamp": "2026-09-04T08:33:49.197Z",
+      "timestamp": "2026-09-09T07:20:53.785Z",
       "version": {
         "major": 0,
         "minor": 1,
-        "patch": 2
+        "patch": 3
       }
     },
     {
