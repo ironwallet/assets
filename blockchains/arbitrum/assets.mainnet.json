@@ -155,11 +155,11 @@
             "default": false,
             "displayDecimals": 4,
             "explorer": "https://arbiscan.io/token/0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
-            "externalId": "arbitrum-bridged-usdt-arbitrum",
+            "externalId": "usdt0",
             "logoUri": "assets/clxd13ksq001qgbosw0f2wb6b/logo.png",
-            "name": "USDT (Arbitrum)",
+            "name": "USDT0",
             "status": "active",
-            "symbol": "usdt",
+            "symbol": "usdt0",
             "type": "Arbitrum"
         },
         {
@@ -4186,10 +4186,10 @@
     "logoUri": "",
     "name": "Iron Wallet: Arbitrum Mainnet",
     "status": "active",
-    "timestamp": "2026-09-04T08:33:49.197Z",
+    "timestamp": "2026-09-09T07:20:53.785Z",
     "version": {
         "major": 0,
         "minor": 1,
-        "patch": 2
+        "patch": 3
     }
 }
