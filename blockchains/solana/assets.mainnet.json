@@ -10813,21 +10813,6 @@
             "type": "Solana"
         },
         {
-            "address": "MYXqkDYbzr7vjXAz2BapR4AiYRXzoikGirrLoRzondo",
-            "asset_id": "cmtlqd3li013rqcfmt19kqtxt",
-            "chainId": 1,
-            "decimals": 9,
-            "default": false,
-            "displayDecimals": 4,
-            "explorer": "https://explorer.solana.com/address/MYXqkDYbzr7vjXAz2BapR4AiYRXzoikGirrLoRzondo",
-            "externalId": "bitmine-immersion-technologies-ondo-tokenized-stocks",
-            "logoUri": "assets/cmtlqd3li013rqcfmt19kqtxt/logo.png",
-            "name": "BitMine Immersion Technologies (Ondo Tokenized Stock)",
-            "status": "active",
-            "symbol": "bmnron",
-            "type": "Solana"
-        },
-        {
             "address": "4ChT49V1iazP2XUGtycGkEsS6pRMqvGfUbqvRC9Z91ZT",
             "asset_id": "cmtlqd3li013tqcfmqr4emqss",
             "chainId": 1,
@@ -10948,21 +10933,6 @@
             "type": "Solana"
         },
         {
-            "address": "keybg184d4vyXeQdFqs4o99YsMg7xBthxTJ6Ky3ondo",
-            "asset_id": "cmtlqd3li014aqcfmquhrucg1",
-            "chainId": 1,
-            "decimals": 9,
-            "default": false,
-            "displayDecimals": 4,
-            "explorer": "https://explorer.solana.com/address/keybg184d4vyXeQdFqs4o99YsMg7xBthxTJ6Ky3ondo",
-            "externalId": "taiwan-semiconductor-manufacturing-ondo-tokenized-stock",
-            "logoUri": "assets/cmtlqd3li014aqcfmquhrucg1/logo.png",
-            "name": "Taiwan Semiconductor Manufacturing (Ondo Tokenized Stock)",
-            "status": "active",
-            "symbol": "tsmon",
-            "type": "Solana"
-        },
-        {
             "address": "APhcqtzE73es3KAGiVksZFMLGwJDiAey5qZKUrQHEHfS",
             "asset_id": "cmtlqd3li014iqcfmqs6pbufl",
             "chainId": 1,
@@ -11005,21 +10975,6 @@
             "name": "Kintara",
             "status": "active",
             "symbol": "kins",
-            "type": "Solana"
-        },
-        {
-            "address": "DwRtkbsaQMGAS3oMeEGYh6M5vH4X9WECsQgqHjAondo",
-            "asset_id": "cmtlqd3li014qqcfmor53ikgd",
-            "chainId": 1,
-            "decimals": 9,
-            "default": false,
-            "displayDecimals": 4,
-            "explorer": "https://explorer.solana.com/address/DwRtkbsaQMGAS3oMeEGYh6M5vH4X9WECsQgqHjAondo",
-            "externalId": "abrdn-physical-platinum-shares-etf-ondo-tokenized",
-            "logoUri": "assets/cmtlqd3li014qqcfmor53ikgd/logo.png",
-            "name": "abrdn Physical Platinum Shares ETF (Ondo Tokenized)",
-            "status": "active",
-            "symbol": "pplton",
             "type": "Solana"
         },
         {
@@ -11218,21 +11173,6 @@
             "type": "Solana"
         },
         {
-            "address": "CPWkMURVvcnX8hGjqCTb8i5LkzV3VSvyk7SeJi8ondo",
-            "asset_id": "cmtlqd3li015tqcfmzmlhyxq4",
-            "chainId": 1,
-            "decimals": 9,
-            "default": false,
-            "displayDecimals": 4,
-            "explorer": "https://explorer.solana.com/address/CPWkMURVvcnX8hGjqCTb8i5LkzV3VSvyk7SeJi8ondo",
-            "externalId": "ishares-core-s-p-total-us-stock-market-etf-ondo-tokenized-etf",
-            "logoUri": "assets/cmtlqd3li015tqcfmzmlhyxq4/logo.png",
-            "name": "iShares Core S&P Total US Stock Market ETF (Ondo Tokenized ETF)",
-            "status": "active",
-            "symbol": "itoton",
-            "type": "Solana"
-        },
-        {
             "address": "9Pfync3ejPC9eHqVzq3nYQJAhyhjqpnB9UsaSfLxpump",
             "asset_id": "cmtlqd3li015vqcfmgpaeb07h",
             "chainId": 1,
@@ -11275,21 +11215,6 @@
             "name": "FC Barcelona Fan Token",
             "status": "active",
             "symbol": "bar",
-            "type": "Solana"
-        },
-        {
-            "address": "KaSLSWByKy6b9FrCYXPEJoHmLpuFZtTCJk1F1Z9ondo",
-            "asset_id": "cmtlqd3li0164qcfmscszlmem",
-            "chainId": 1,
-            "decimals": 9,
-            "default": false,
-            "displayDecimals": 4,
-            "explorer": "https://explorer.solana.com/address/KaSLSWByKy6b9FrCYXPEJoHmLpuFZtTCJk1F1Z9ondo",
-            "externalId": "ishares-20-year-treasury-bond-etf-ondo-tokenized-etf",
-            "logoUri": "assets/cmtlqd3li0164qcfmscszlmem/logo.png",
-            "name": "iShares 20+ Year Treasury Bond ETF (Ondo Tokenized ETF)",
-            "status": "active",
-            "symbol": "tlton",
             "type": "Solana"
         },
         {
@@ -11398,21 +11323,6 @@
             "type": "Solana"
         },
         {
-            "address": "cdVNL7wK8mf1UCDqM6zdrziRv4hmvqWhXeTcck2ondo",
-            "asset_id": "cmtlqd3lj016hqcfmg3crejhn",
-            "chainId": 1,
-            "decimals": 9,
-            "default": false,
-            "displayDecimals": 4,
-            "explorer": "https://explorer.solana.com/address/cdVNL7wK8mf1UCDqM6zdrziRv4hmvqWhXeTcck2ondo",
-            "externalId": "ishares-core-msci-emerging-markets-etf-ondo-tokenized-etf",
-            "logoUri": "assets/cmtlqd3lj016hqcfmg3crejhn/logo.png",
-            "name": "iShares Core MSCI Emerging Markets ETF (Ondo Tokenized ETF)",
-            "status": "active",
-            "symbol": "iemgon",
-            "type": "Solana"
-        },
-        {
             "address": "rpydAzWdCy85HEmoQkH5PVxYtDYQWjmLxgHHadxondo",
             "asset_id": "cmtlqd3lj016iqcfmlo5prd7u",
             "chainId": 1,
@@ -11515,21 +11425,6 @@
             "name": "Credo Technology Group Holding (Ondo Tokenized)",
             "status": "active",
             "symbol": "crdoon",
-            "type": "Solana"
-        },
-        {
-            "address": "HjrN6ChZK2QRL6hMXayjGPLFvxhgjwKEy135VRjondo",
-            "asset_id": "cmtlqd3lj016rqcfmnh7c5nkk",
-            "chainId": 1,
-            "decimals": 9,
-            "default": false,
-            "displayDecimals": 4,
-            "explorer": "https://explorer.solana.com/address/HjrN6ChZK2QRL6hMXayjGPLFvxhgjwKEy135VRjondo",
-            "externalId": "ishares-0-3-month-treasury-bond-etf-ondo-tokenized-etf",
-            "logoUri": "assets/cmtlqd3lj016rqcfmnh7c5nkk/logo.png",
-            "name": "iShares 0-3 Month Treasury Bond ETF (Ondo Tokenized ETF)",
-            "status": "active",
-            "symbol": "sgovon",
             "type": "Solana"
         },
         {
@@ -12103,21 +11998,6 @@
             "type": "Solana"
         },
         {
-            "address": "P7hTXnKk2d2DyqWnefp5BSroE1qjjKpKxg9SxQqondo",
-            "asset_id": "cmtlqd3lj018lqcfm7yrwb6d6",
-            "chainId": 1,
-            "decimals": 9,
-            "default": false,
-            "displayDecimals": 4,
-            "explorer": "https://explorer.solana.com/address/P7hTXnKk2d2DyqWnefp5BSroE1qjjKpKxg9SxQqondo",
-            "externalId": "abrdn-physical-palladium-shares-etf-ondo-tokenized-stocks",
-            "logoUri": "assets/cmtlqd3lj018lqcfm7yrwb6d6/logo.png",
-            "name": "abrdn Physical Palladium Shares ETF (Ondo Tokenized ETF)",
-            "status": "active",
-            "symbol": "pallon",
-            "type": "Solana"
-        },
-        {
             "address": "HooDYv5RewLRiMLnEVq3VJqdqxhuE6c5eYvqejMC3e9A",
             "asset_id": "cmtlqd3lj018oqcfmv4cq4ytp",
             "chainId": 1,
@@ -12178,21 +12058,6 @@
             "type": "Solana"
         },
         {
-            "address": "916SDKz7y5ZcEZC9CtnQ5Djs1Y8Yv3UAPb6bak8ondo",
-            "asset_id": "cmtlqd3lj018vqcfmao1dp1yb",
-            "chainId": 1,
-            "decimals": 9,
-            "default": false,
-            "displayDecimals": 4,
-            "explorer": "https://explorer.solana.com/address/916SDKz7y5ZcEZC9CtnQ5Djs1Y8Yv3UAPb6bak8ondo",
-            "externalId": "ishares-msci-emerging-markets-etf-ondo-tokenized-etf",
-            "logoUri": "assets/cmtlqd3lj018vqcfmao1dp1yb/logo.png",
-            "name": "iShares MSCI Emerging Markets ETF (Ondo Tokenized ETF)",
-            "status": "active",
-            "symbol": "eemon",
-            "type": "Solana"
-        },
-        {
             "address": "X68p9qTpEMkR1TLpXUP2ZJo8PG4Qge2Y2ZLdjA2ondo",
             "asset_id": "cmtlqd3lj018wqcfm8my2ovnh",
             "chainId": 1,
@@ -12226,10 +12091,10 @@
     "logoUri": "",
     "name": "Iron Wallet: Solana",
     "status": "active",
-    "timestamp": "2026-09-04T08:33:49.197Z",
+    "timestamp": "2026-09-10T09:56:27.256Z",
     "version": {
         "major": 0,
         "minor": 4,
-        "patch": 5
+        "patch": 6
     }
 }
