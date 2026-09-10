@@ -1361,15 +1361,75 @@
             "status": "active",
             "symbol": "wfrax",
             "type": "Optimism"
+        },
+        {
+            "address": "0xDCB612005417Dc906fF72c87DF732e5a90D49e11",
+            "asset_id": "cmtlqo0bb01j4qcfm94ahuz4b",
+            "chainId": 10,
+            "decimals": 6,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://optimistic.etherscan.io/token/0xdcb612005417dc906ff72c87df732e5a90d49e11",
+            "externalId": "euro-coin",
+            "logoUri": "assets/cmtlqo0bb01j4qcfm94ahuz4b/logo.png",
+            "name": "EURC",
+            "status": "active",
+            "symbol": "eurc",
+            "type": "Optimism"
+        },
+        {
+            "address": "0xAd42D013ac31486B73b6b059e748172994736426",
+            "asset_id": "cmtlqo0bb01j5qcfm96mzubga",
+            "chainId": 10,
+            "decimals": 18,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://optimistic.etherscan.io/token/0xad42d013ac31486b73b6b059e748172994736426",
+            "externalId": "1inch",
+            "logoUri": "assets/cmtlqo0bb01j5qcfm96mzubga/logo.png",
+            "name": "1INCH",
+            "status": "active",
+            "symbol": "1inch",
+            "type": "Optimism"
+        },
+        {
+            "address": "0x44E49ddE02c954cD9B67923af7B1070412e8f34e",
+            "asset_id": "cmtlqo0bc01jhqcfmdrxfkyo3",
+            "chainId": 10,
+            "decimals": 18,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://optimistic.etherscan.io/token/0x44e49dde02c954cd9b67923af7b1070412e8f34e",
+            "externalId": "vida-global-xstock",
+            "logoUri": "assets/cmtlqo0bc01jhqcfmdrxfkyo3/logo.png",
+            "name": "Vida Global xStock",
+            "status": "active",
+            "symbol": "vidax",
+            "type": "Optimism"
+        },
+        {
+            "address": "0x33800De7E817A70A694F31476313A7c572BBa100",
+            "asset_id": "cmtlqo0bc01jjqcfm2e8aexg6",
+            "chainId": 10,
+            "decimals": 18,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://optimistic.etherscan.io/token/0x33800de7e817a70a694f31476313a7c572bba100",
+            "externalId": "derive",
+            "logoUri": "assets/cmtlqo0bc01jjqcfm2e8aexg6/logo.png",
+            "name": "Derive",
+            "status": "active",
+            "symbol": "drv",
+            "type": "Optimism"
         }
     ],
     "logoUri": "",
     "name": "Iron Wallet: Optimism",
     "status": "active",
-    "timestamp": "2026-02-18T11:26:22.594Z",
+    "timestamp": "2026-09-04T08:33:49.197Z",
     "version": {
         "major": 0,
-        "minor": 1,
-        "patch": 10
+        "minor": 2,
+        "patch": 1
     }
 }
