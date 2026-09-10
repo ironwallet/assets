@@ -22873,21 +22873,6 @@
             "type": "ERC20"
         },
         {
-            "address": "0x33483A58079b4225b10e57958Ca28ad7b9CDbAF7",
-            "asset_id": "cmtlptje1009hqcfmjpjst6cl",
-            "chainId": 1,
-            "decimals": 18,
-            "default": false,
-            "displayDecimals": 4,
-            "explorer": "https://etherscan.io/token/0x33483a58079b4225b10e57958ca28ad7b9cdbaf7",
-            "externalId": "bitmine-immersion-technologies-ondo-tokenized-stocks",
-            "logoUri": "assets/cmtlptje1009hqcfmjpjst6cl/logo.png",
-            "name": "BitMine Immersion Technologies (Ondo Tokenized Stock)",
-            "status": "active",
-            "symbol": "bmnron",
-            "type": "ERC20"
-        },
-        {
             "address": "0xf280B16EF293D8e534e370794ef26bF312694126",
             "asset_id": "cmtlptje1009jqcfmc6qbpjef",
             "chainId": 1,
@@ -23008,21 +22993,6 @@
             "type": "ERC20"
         },
         {
-            "address": "0x3Cafdbfe682aec17d5acE2f97A2f3ab3dCf6a4A9",
-            "asset_id": "cmtlptje200a9qcfmm5o6l350",
-            "chainId": 1,
-            "decimals": 18,
-            "default": false,
-            "displayDecimals": 4,
-            "explorer": "https://etherscan.io/token/0x3cafdbfe682aec17d5ace2f97a2f3ab3dcf6a4a9",
-            "externalId": "taiwan-semiconductor-manufacturing-ondo-tokenized-stock",
-            "logoUri": "assets/cmtlptje200a9qcfmm5o6l350/logo.png",
-            "name": "Taiwan Semiconductor Manufacturing (Ondo Tokenized Stock)",
-            "status": "active",
-            "symbol": "tsmon",
-            "type": "ERC20"
-        },
-        {
             "address": "0x7eA7ea50ed58BC4d0a9194bCD328E21F7Be80c2B",
             "asset_id": "cmtlptje400ajqcfm0nhdlicn",
             "chainId": 1,
@@ -23065,21 +23035,6 @@
             "name": "Gensyn",
             "status": "active",
             "symbol": "ai",
-            "type": "ERC20"
-        },
-        {
-            "address": "0xf1883461Ec7BD883A3668749c5CF5f351080d059",
-            "asset_id": "cmtlptje400avqcfm6wt15snp",
-            "chainId": 1,
-            "decimals": 18,
-            "default": false,
-            "displayDecimals": 4,
-            "explorer": "https://etherscan.io/token/0xf1883461ec7bd883a3668749c5cf5f351080d059",
-            "externalId": "abrdn-physical-platinum-shares-etf-ondo-tokenized",
-            "logoUri": "assets/cmtlptje400avqcfm6wt15snp/logo.png",
-            "name": "abrdn Physical Platinum Shares ETF (Ondo Tokenized)",
-            "status": "active",
-            "symbol": "pplton",
             "type": "ERC20"
         },
         {
@@ -23218,36 +23173,6 @@
             "type": "ERC20"
         },
         {
-            "address": "0x0692481C369E2BDc728A69ae31b848343a4567Be",
-            "asset_id": "cmtlptje900c8qcfm2og20a0n",
-            "chainId": 1,
-            "decimals": 18,
-            "default": false,
-            "displayDecimals": 4,
-            "explorer": "https://etherscan.io/token/0x0692481c369e2bdc728a69ae31b848343a4567be",
-            "externalId": "ishares-core-s-p-total-us-stock-market-etf-ondo-tokenized-etf",
-            "logoUri": "assets/cmtlptje900c8qcfm2og20a0n/logo.png",
-            "name": "iShares Core S&P Total US Stock Market ETF (Ondo Tokenized ETF)",
-            "status": "active",
-            "symbol": "itoton",
-            "type": "ERC20"
-        },
-        {
-            "address": "0x9b4Db2271EB1fa0aEe1abA7ed55E51C38cE514a3",
-            "asset_id": "cmtlptje900cbqcfm0plm8bro",
-            "chainId": 1,
-            "decimals": 18,
-            "default": false,
-            "displayDecimals": 4,
-            "explorer": "https://etherscan.io/token/0x9b4db2271eb1fa0aee1aba7ed55e51c38ce514a3",
-            "externalId": "space-exploration-technologies-dinari-tokenized-stock",
-            "logoUri": "assets/cmtlptje900cbqcfm0plm8bro/logo.png",
-            "name": "Space Exploration Technologies (Dinari Tokenized Stock)",
-            "status": "active",
-            "symbol": "spcx",
-            "type": "ERC20"
-        },
-        {
             "address": "0xd0580192E98eA6CEB9c7b6191Ed2E27560911697",
             "asset_id": "cmtlptje900ccqcfmzsagnrnd",
             "chainId": 1,
@@ -23290,21 +23215,6 @@
             "name": "Nesa",
             "status": "active",
             "symbol": "nes",
-            "type": "ERC20"
-        },
-        {
-            "address": "0x992651BFeB9A0DCC4457610E284ba66D86489d4d",
-            "asset_id": "cmtlptjea00clqcfm3s9i7plh",
-            "chainId": 1,
-            "decimals": 18,
-            "default": false,
-            "displayDecimals": 4,
-            "explorer": "https://etherscan.io/token/0x992651bfeb9a0dcc4457610e284ba66d86489d4d",
-            "externalId": "ishares-20-year-treasury-bond-etf-ondo-tokenized-etf",
-            "logoUri": "assets/cmtlptjea00clqcfm3s9i7plh/logo.png",
-            "name": "iShares 20+ Year Treasury Bond ETF (Ondo Tokenized ETF)",
-            "status": "active",
-            "symbol": "tlton",
             "type": "ERC20"
         },
         {
@@ -23395,21 +23305,6 @@
             "name": "Lumentum Holdings (Ondo Tokenized)",
             "status": "active",
             "symbol": "liteon",
-            "type": "ERC20"
-        },
-        {
-            "address": "0xcDD60D15125bf3362b6838D2506b0Fa33bc1a515",
-            "asset_id": "cmtlptjec00d4qcfmeq00ede2",
-            "chainId": 1,
-            "decimals": 18,
-            "default": false,
-            "displayDecimals": 4,
-            "explorer": "https://etherscan.io/token/0xcdd60d15125bf3362b6838d2506b0fa33bc1a515",
-            "externalId": "ishares-core-msci-emerging-markets-etf-ondo-tokenized-etf",
-            "logoUri": "assets/cmtlptjec00d4qcfmeq00ede2/logo.png",
-            "name": "iShares Core MSCI Emerging Markets ETF (Ondo Tokenized ETF)",
-            "status": "active",
-            "symbol": "iemgon",
             "type": "ERC20"
         },
         {
@@ -23530,21 +23425,6 @@
             "name": "Credo Technology Group Holding (Ondo Tokenized)",
             "status": "active",
             "symbol": "crdoon",
-            "type": "ERC20"
-        },
-        {
-            "address": "0x8De5D49725550f7b318b2FA0f1B1F118E98E8D0F",
-            "asset_id": "cmtlptjec00dgqcfmoxpgchjh",
-            "chainId": 1,
-            "decimals": 18,
-            "default": false,
-            "displayDecimals": 4,
-            "explorer": "https://etherscan.io/token/0x8de5d49725550f7b318b2fa0f1b1f118e98e8d0f",
-            "externalId": "ishares-0-3-month-treasury-bond-etf-ondo-tokenized-etf",
-            "logoUri": "assets/cmtlptjec00dgqcfmoxpgchjh/logo.png",
-            "name": "iShares 0-3 Month Treasury Bond ETF (Ondo Tokenized ETF)",
-            "status": "active",
-            "symbol": "sgovon",
             "type": "ERC20"
         },
         {
@@ -23908,21 +23788,6 @@
             "type": "ERC20"
         },
         {
-            "address": "0x0cE36d199bd6851788e03392568849394cBdE722",
-            "asset_id": "cmtlptjei00faqcfmgrpfgo6t",
-            "chainId": 1,
-            "decimals": 18,
-            "default": false,
-            "displayDecimals": 4,
-            "explorer": "https://etherscan.io/token/0x0ce36d199bd6851788e03392568849394cbde722",
-            "externalId": "abrdn-physical-palladium-shares-etf-ondo-tokenized-stocks",
-            "logoUri": "assets/cmtlptjei00faqcfmgrpfgo6t/logo.png",
-            "name": "abrdn Physical Palladium Shares ETF (Ondo Tokenized ETF)",
-            "status": "active",
-            "symbol": "pallon",
-            "type": "ERC20"
-        },
-        {
             "address": "0xe33fbE7584EB79e2673abe576B7AC8C0De62565c",
             "asset_id": "cmtlptjek00ffqcfmxtz3bo6m",
             "chainId": 1,
@@ -23965,21 +23830,6 @@
             "name": "Occidental Petroleum (Ondo Tokenized)",
             "status": "active",
             "symbol": "oxyon",
-            "type": "ERC20"
-        },
-        {
-            "address": "0x77A1a02e4a888ADA8620b93C30dE8a41E621126c",
-            "asset_id": "cmtlptjel00flqcfm22n9o8hx",
-            "chainId": 1,
-            "decimals": 18,
-            "default": false,
-            "displayDecimals": 4,
-            "explorer": "https://etherscan.io/token/0x77a1a02e4a888ada8620b93c30de8a41e621126c",
-            "externalId": "ishares-msci-emerging-markets-etf-ondo-tokenized-etf",
-            "logoUri": "assets/cmtlptjel00flqcfm22n9o8hx/logo.png",
-            "name": "iShares MSCI Emerging Markets ETF (Ondo Tokenized ETF)",
-            "status": "active",
-            "symbol": "eemon",
             "type": "ERC20"
         },
         {
@@ -24031,10 +23881,10 @@
     "logoUri": "",
     "name": "Iron Wallet: Ethereum",
     "status": "active",
-    "timestamp": "2026-09-04T08:33:49.197Z",
+    "timestamp": "2026-09-10T09:56:27.256Z",
     "version": {
         "major": 0,
         "minor": 6,
-        "patch": 4
+        "patch": 5
     }
 }

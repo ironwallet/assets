@@ -15,11 +15,11 @@
       "blockchain": "ethereum",
       "chainId": 1,
       "list": "assets.mainnet.json",
-      "timestamp": "2026-09-04T08:33:49.197Z",
+      "timestamp": "2026-09-10T09:56:27.256Z",
       "version": {
         "major": 0,
         "minor": 6,
-        "patch": 4
+        "patch": 5
       }
     },
     {
@@ -59,11 +59,11 @@
       "blockchain": "bsc",
       "chainId": 56,
       "list": "assets.mainnet.json",
-      "timestamp": "2026-09-04T08:33:49.197Z",
+      "timestamp": "2026-09-10T09:56:27.256Z",
       "version": {
         "major": 0,
         "minor": 3,
-        "patch": 3
+        "patch": 4
       }
     },
     {
@@ -103,11 +103,11 @@
       "blockchain": "avalanche",
       "chainId": 43114,
       "list": "assets.mainnet.json",
-      "timestamp": "2026-09-04T08:33:49.197Z",
+      "timestamp": "2026-09-10T09:56:27.256Z",
       "version": {
         "major": 0,
         "minor": 2,
-        "patch": 3
+        "patch": 4
       }
     },
     {
@@ -147,11 +147,11 @@
       "blockchain": "solana",
       "chainId": 1,
       "list": "assets.mainnet.json",
-      "timestamp": "2026-09-04T08:33:49.197Z",
+      "timestamp": "2026-09-10T09:56:27.256Z",
       "version": {
         "major": 0,
         "minor": 4,
-        "patch": 5
+        "patch": 6
       }
     },
     {
@@ -169,11 +169,11 @@
       "blockchain": "arbitrum",
       "chainId": 42161,
       "list": "assets.mainnet.json",
-      "timestamp": "2026-09-09T07:20:53.785Z",
+      "timestamp": "2026-09-10T09:56:27.256Z",
       "version": {
         "major": 0,
         "minor": 1,
-        "patch": 3
+        "patch": 4
       }
     },
     {
@@ -257,11 +257,11 @@
       "blockchain": "base",
       "chainId": 8453,
       "list": "assets.mainnet.json",
-      "timestamp": "2026-09-04T08:33:49.197Z",
+      "timestamp": "2026-09-10T09:56:27.256Z",
       "version": {
         "major": 0,
         "minor": 1,
-        "patch": 10
+        "patch": 11
       }
     },
     {

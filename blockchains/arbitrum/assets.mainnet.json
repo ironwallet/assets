@@ -4138,21 +4138,6 @@
             "type": "Arbitrum"
         },
         {
-            "address": "0x9b4Db2271EB1fa0aEe1abA7ed55E51C38cE514a3",
-            "asset_id": "cmtlqjpss01buqcfmxm7cw0fh",
-            "chainId": 42161,
-            "decimals": 18,
-            "default": false,
-            "displayDecimals": 4,
-            "explorer": "https://arbiscan.io/token/0x9b4db2271eb1fa0aee1aba7ed55e51c38ce514a3",
-            "externalId": "space-exploration-technologies-dinari-tokenized-stock",
-            "logoUri": "assets/cmtlqjpss01buqcfmxm7cw0fh/logo.png",
-            "name": "Space Exploration Technologies (Dinari Tokenized Stock)",
-            "status": "active",
-            "symbol": "spcx",
-            "type": "Arbitrum"
-        },
-        {
             "address": "0x0c06cCF38114ddfc35e07427B9424adcca9F44F8",
             "asset_id": "cmtlqjpss01byqcfm39yaom5v",
             "chainId": 42161,
@@ -4186,10 +4171,10 @@
     "logoUri": "",
     "name": "Iron Wallet: Arbitrum Mainnet",
     "status": "active",
-    "timestamp": "2026-09-09T07:20:53.785Z",
+    "timestamp": "2026-09-10T09:56:27.256Z",
     "version": {
         "major": 0,
         "minor": 1,
-        "patch": 3
+        "patch": 4
     }
 }

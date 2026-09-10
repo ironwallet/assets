@@ -2111,30 +2111,15 @@
             "status": "active",
             "symbol": "yom",
             "type": "Avalanche"
-        },
-        {
-            "address": "0x9b4Db2271EB1fa0aEe1abA7ed55E51C38cE514a3",
-            "asset_id": "cmtlqc1nz00wiqcfmxn50037q",
-            "chainId": 43114,
-            "decimals": 18,
-            "default": false,
-            "displayDecimals": 4,
-            "explorer": "https://snowtrace.io/token/0x9b4db2271eb1fa0aee1aba7ed55e51c38ce514a3",
-            "externalId": "space-exploration-technologies-dinari-tokenized-stock",
-            "logoUri": "assets/cmtlqc1nz00wiqcfmxn50037q/logo.png",
-            "name": "Space Exploration Technologies (Dinari Tokenized Stock)",
-            "status": "active",
-            "symbol": "spcx",
-            "type": "Avalanche"
         }
     ],
     "logoUri": "",
     "name": "Iron Wallet: Avalanche Mainnet",
     "status": "active",
-    "timestamp": "2026-09-04T08:33:49.197Z",
+    "timestamp": "2026-09-10T09:56:27.256Z",
     "version": {
         "major": 0,
         "minor": 2,
-        "patch": 3
+        "patch": 4
     }
 }
