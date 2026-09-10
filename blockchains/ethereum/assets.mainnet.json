@@ -22753,21 +22753,6 @@
             "type": "ERC20"
         },
         {
-            "address": "0x61EC85aB89377db65762E234C946b5c25A56E99e",
-            "asset_id": "cmtlptjdt007mqcfmk62ydp1t",
-            "chainId": 1,
-            "decimals": 18,
-            "default": false,
-            "displayDecimals": 4,
-            "explorer": "https://etherscan.io/token/0x61ec85ab89377db65762e234c946b5c25a56e99e",
-            "externalId": "htx-dao",
-            "logoUri": "assets/cmtlptjdt007mqcfmk62ydp1t/logo.png",
-            "name": "HTX DAO",
-            "status": "active",
-            "symbol": "htx",
-            "type": "ERC20"
-        },
-        {
             "address": "0xb1110919016846972056AB995054D65560D5f05E",
             "asset_id": "cmtlptjdt007zqcfmu8gdktx7",
             "chainId": 1,
@@ -23881,10 +23866,10 @@
     "logoUri": "",
     "name": "Iron Wallet: Ethereum",
     "status": "active",
-    "timestamp": "2026-09-10T09:56:27.256Z",
+    "timestamp": "2026-09-10T13:00:00.000Z",
     "version": {
         "major": 0,
         "minor": 6,
-        "patch": 5
+        "patch": 6
     }
 }

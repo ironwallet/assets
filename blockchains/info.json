@@ -15,11 +15,11 @@
       "blockchain": "ethereum",
       "chainId": 1,
       "list": "assets.mainnet.json",
-      "timestamp": "2026-09-10T09:56:27.256Z",
+      "timestamp": "2026-09-10T13:00:00.000Z",
       "version": {
         "major": 0,
         "minor": 6,
-        "patch": 5
+        "patch": 6
       }
     },
     {
@@ -59,11 +59,11 @@
       "blockchain": "bsc",
       "chainId": 56,
       "list": "assets.mainnet.json",
-      "timestamp": "2026-09-10T09:56:27.256Z",
+      "timestamp": "2026-09-10T13:00:00.000Z",
       "version": {
         "major": 0,
         "minor": 3,
-        "patch": 4
+        "patch": 5
       }
     },
     {
@@ -81,11 +81,11 @@
       "blockchain": "tron",
       "chainId": 1,
       "list": "assets.mainnet.json",
-      "timestamp": "2026-09-04T08:33:49.197Z",
+      "timestamp": "2026-09-10T13:00:00.000Z",
       "version": {
         "major": 0,
         "minor": 2,
-        "patch": 8
+        "patch": 9
       }
     },
     {
