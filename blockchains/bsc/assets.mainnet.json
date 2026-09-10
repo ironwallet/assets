@@ -16606,21 +16606,6 @@
       "type": "BEP20"
     },
     {
-      "address": "0x61EC85aB89377db65762E234C946b5c25A56E99e",
-      "asset_id": "cmtlq2jm000m2qcfmq4h5exz7",
-      "chainId": 56,
-      "decimals": 18,
-      "default": false,
-      "displayDecimals": 4,
-      "explorer": "https://bscscan.com/token/0x61ec85ab89377db65762e234c946b5c25a56e99e",
-      "externalId": "htx-dao",
-      "logoUri": "assets/cmtlq2jm000m2qcfmq4h5exz7/logo.png",
-      "name": "HTX DAO",
-      "status": "active",
-      "symbol": "htx",
-      "type": "BEP20"
-    },
-    {
       "address": "0xe9Bc5C6A86caA44fD7b469bf3cc7c563E4F77777",
       "asset_id": "cmtlq2jm100m7qcfm1em4xdud",
       "chainId": 56,
@@ -18244,10 +18229,10 @@
   "logoUri": "",
   "name": "Iron Wallet: Binance Smart Chain",
   "status": "active",
-  "timestamp": "2026-09-10T09:56:27.256Z",
+  "timestamp": "2026-09-10T13:00:00.000Z",
   "version": {
     "major": 0,
     "minor": 3,
-    "patch": 4
+    "patch": 5
   }
 }
