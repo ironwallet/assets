@@ -626,15 +626,30 @@
             "status": "active",
             "symbol": "avgox",
             "type": "Ton"
+        },
+        {
+            "address": "EQDhyPzbIjJT_WnY3gGprjSYUK9fiGMjWMezxO8MZiUdfb_B",
+            "asset_id": "cm66xvqs4n0uxo6zr1azpzswd",
+            "chainId": 1,
+            "decimals": 8,
+            "default": false,
+            "displayDecimals": 4,
+            "explorer": "https://tonscan.org/address/EQDhyPzbIjJT_WnY3gGprjSYUK9fiGMjWMezxO8MZiUdfb_B",
+            "externalId": "coinbase-wrapped-btc",
+            "logoUri": "assets/cm66xvqs4n0uxo6zr1azpzswd/logo.png",
+            "name": "Coinbase Wrapped BTC",
+            "status": "active",
+            "symbol": "cbbtc",
+            "type": "Ton"
         }
     ],
     "logoUri": "",
     "name": "Iron Wallet: Ton",
     "status": "active",
-    "timestamp": "2026-09-04T08:33:49.197Z",
+    "timestamp": "2026-10-14T07:51:56.958Z",
     "version": {
         "major": 0,
         "minor": 1,
-        "patch": 5
+        "patch": 6
     }
 }

@@ -191,11 +191,11 @@
       "blockchain": "ton",
       "chainId": 1,
       "list": "assets.mainnet.json",
-      "timestamp": "2026-09-04T08:33:49.197Z",
+      "timestamp": "2026-10-14T07:51:56.958Z",
       "version": {
         "major": 0,
         "minor": 1,
-        "patch": 5
+        "patch": 6
       }
     },
     {
