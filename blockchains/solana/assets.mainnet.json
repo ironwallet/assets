@@ -12101,15 +12101,60 @@
             "status": "active",
             "symbol": "tgbp",
             "type": "Solana"
+        },
+        {
+            "asset_id": "cce0ff97d08f44477b7ec94a2",
+            "chainId": 1,
+            "decimals": 6,
+            "default": false,
+            "displayDecimals": 4,
+            "externalId": "claudia-2",
+            "logoUri": "assets/cce0ff97d08f44477b7ec94a2/logo.png",
+            "name": "Claudia",
+            "status": "active",
+            "symbol": "CLAUDIA",
+            "type": "Solana",
+            "address": "2j5SaS7xy776qCBpyPQbZjyQSAtKiFgrwjfErthnW2ZM",
+            "explorer": "https://explorer.solana.com/address/2j5SaS7xy776qCBpyPQbZjyQSAtKiFgrwjfErthnW2ZM"
+        },
+        {
+            "asset_id": "c8e09e3420d0841c5991eefd0",
+            "chainId": 1,
+            "decimals": 6,
+            "default": false,
+            "displayDecimals": 4,
+            "externalId": "nullmask",
+            "logoUri": "assets/c8e09e3420d0841c5991eefd0/logo.png",
+            "name": "Nullmask",
+            "status": "active",
+            "symbol": "MASK",
+            "type": "Solana",
+            "address": "HuAXPyDWDaMYFKuwQHpqL1oPnj93zdzWmtvFGzCeCUa7",
+            "explorer": "https://explorer.solana.com/address/HuAXPyDWDaMYFKuwQHpqL1oPnj93zdzWmtvFGzCeCUa7"
+        },
+        {
+            "asset_id": "c0c2c58a013c64a5f9d7514f6",
+            "chainId": 1,
+            "decimals": 6,
+            "default": false,
+            "displayDecimals": 4,
+            "externalId": "nearkat-2",
+            "logoUri": "assets/c0c2c58a013c64a5f9d7514f6/logo.png",
+            "name": "NearKat",
+            "status": "active",
+            "symbol": "NEARKAT",
+            "type": "Solana",
+            "address": "6UtY9iTZMQQ5QZVrbzFnNaJntV7oySm9k97mvwnuZcxr",
+            "explorer": "https://explorer.solana.com/address/6UtY9iTZMQQ5QZVrbzFnNaJntV7oySm9k97mvwnuZcxr"
         }
     ],
     "logoUri": "",
     "name": "Iron Wallet: Solana",
     "status": "active",
-    "timestamp": "2026-10-06T10:15:06.558Z",
+    "timestamp": "2026-10-20T09:07:16.519Z",
     "version": {
         "major": 0,
         "minor": 4,
-        "patch": 7
+        "patch": 8
     }
 }

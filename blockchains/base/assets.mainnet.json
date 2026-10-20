@@ -7511,15 +7511,75 @@
             "status": "active",
             "symbol": "tgbp",
             "type": "Base"
+        },
+        {
+            "asset_id": "c4f5aba3bad5b40689f483700",
+            "chainId": 8453,
+            "decimals": 18,
+            "default": false,
+            "displayDecimals": 4,
+            "externalId": "katana-network-token",
+            "logoUri": "assets/c4f5aba3bad5b40689f483700/logo.png",
+            "name": "Katana",
+            "status": "active",
+            "symbol": "KAT",
+            "type": "Base",
+            "address": "0xD5390300c5DB71F80d46f0fA9983Fc72D4d1e3da",
+            "explorer": "https://basescan.org/token/0xD5390300c5DB71F80d46f0fA9983Fc72D4d1e3da"
+        },
+        {
+            "asset_id": "c08a06c37a072461fac77b2c4",
+            "chainId": 8453,
+            "decimals": 8,
+            "default": false,
+            "displayDecimals": 4,
+            "externalId": "spacex-coinbase-tokenized-stock",
+            "logoUri": "assets/c08a06c37a072461fac77b2c4/logo.png",
+            "name": "SpaceX (Coinbase Tokenized Stock)",
+            "status": "active",
+            "symbol": "SPCXC",
+            "type": "Base",
+            "address": "0xb2000000000000000000007b9fcbd005511aCBd5",
+            "explorer": "https://basescan.org/token/0xb2000000000000000000007b9fcbd005511aCBd5"
+        },
+        {
+            "asset_id": "cbf72b9062fdd491db4a0900a",
+            "chainId": 8453,
+            "decimals": 8,
+            "default": false,
+            "displayDecimals": 4,
+            "externalId": "tesla-coinbase-tokenized-stocks",
+            "logoUri": "assets/cbf72b9062fdd491db4a0900a/logo.png",
+            "name": "Tesla (Coinbase Tokenized Stocks)",
+            "status": "active",
+            "symbol": "TSLAC",
+            "type": "Base",
+            "address": "0xb2000000000000000000001e800a7f5189430cD0",
+            "explorer": "https://basescan.org/token/0xb2000000000000000000001e800a7f5189430cD0"
+        },
+        {
+            "asset_id": "c3a4bdbe5994645d194666cfd",
+            "chainId": 8453,
+            "decimals": 18,
+            "default": false,
+            "displayDecimals": 4,
+            "externalId": "whuffie",
+            "logoUri": "assets/c3a4bdbe5994645d194666cfd/logo.png",
+            "name": "Whuffie",
+            "status": "active",
+            "symbol": "WHUF",
+            "type": "Base",
+            "address": "0xeeee77bC7e82c0d4166d52F58239D4c5Bf41eeee",
+            "explorer": "https://basescan.org/token/0xeeee77bC7e82c0d4166d52F58239D4c5Bf41eeee"
         }
     ],
     "logoUri": "",
     "name": "Iron Wallet: Base",
     "status": "active",
-    "timestamp": "2026-10-06T10:15:06.558Z",
+    "timestamp": "2026-10-20T09:07:16.519Z",
     "version": {
         "major": 0,
         "minor": 2,
-        "patch": 0
+        "patch": 1
     }
 }

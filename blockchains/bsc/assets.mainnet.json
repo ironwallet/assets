@@ -15757,7 +15757,7 @@
       "decimals": 18,
       "default": false,
       "displayDecimals": 4,
-      "explorer": "https://bscscan.com/token/0xd89b7dd376e671c124352267516bef1c2cc231a3",
+      "explorer": "https://bscscan.com/token/0xf1c599e9a5fbdea408a7409c0176a2fe42c64444",
       "externalId": "hachiko-inu-2",
       "logoUri": "/assets/cmpqomokq000008fmo8x67zx7/logo.png",
       "name": "Hachiko Inu",
@@ -18239,15 +18239,60 @@
       "status": "active",
       "symbol": "tgbp",
       "type": "BEP20"
+    },
+    {
+      "address": "0x1E9A8531548aEd9b7fb83e80eF66422d182998C3",
+      "asset_id": "c1fdfd613db1944eea75ad2ec",
+      "chainId": 56,
+      "decimals": 18,
+      "default": false,
+      "displayDecimals": 4,
+      "explorer": "https://bscscan.com/token/0x1E9A8531548aEd9b7fb83e80eF66422d182998C3",
+      "externalId": "incentiv",
+      "logoUri": "assets/c1fdfd613db1944eea75ad2ec/logo.png",
+      "name": "Incentiv",
+      "status": "active",
+      "symbol": "CENT",
+      "type": "BEP20"
+    },
+    {
+      "address": "0x37C563cdf4606D4302AbB395cdB94E79d31233Ed",
+      "asset_id": "c0cf2a1b8e2cb446b849e00b0",
+      "chainId": 56,
+      "decimals": 18,
+      "default": false,
+      "displayDecimals": 4,
+      "explorer": "https://bscscan.com/token/0x37C563cdf4606D4302AbB395cdB94E79d31233Ed",
+      "externalId": "magic-hash",
+      "logoUri": "assets/c0cf2a1b8e2cb446b849e00b0/logo.png",
+      "name": "Magic Hash",
+      "status": "active",
+      "symbol": "MHA",
+      "type": "BEP20"
+    },
+    {
+      "address": "0xC2B1dDB75046c4915C641CC0DC0d0F160Ef82Be5",
+      "asset_id": "c492b9e0184e144f1bcf746c8",
+      "chainId": 56,
+      "decimals": 18,
+      "default": false,
+      "displayDecimals": 4,
+      "explorer": "https://bscscan.com/token/0xC2B1dDB75046c4915C641CC0DC0d0F160Ef82Be5",
+      "externalId": "glidr",
+      "logoUri": "assets/c492b9e0184e144f1bcf746c8/logo.png",
+      "name": "Glidr",
+      "status": "active",
+      "symbol": "GLIDR",
+      "type": "BEP20"
     }
   ],
   "logoUri": "",
   "name": "Iron Wallet: Binance Smart Chain",
   "status": "active",
-  "timestamp": "2026-10-06T10:15:06.558Z",
+  "timestamp": "2026-10-20T09:07:16.519Z",
   "version": {
     "major": 0,
     "minor": 3,
-    "patch": 6
+    "patch": 7
   }
 }
