@@ -12101,15 +12101,45 @@
             "status": "active",
             "symbol": "tgbp",
             "type": "Solana"
+        },
+        {
+            "asset_id": "c226e682b734a4b939562fcaf",
+            "chainId": 1,
+            "decimals": 6,
+            "default": false,
+            "displayDecimals": 4,
+            "externalId": "paid",
+            "logoUri": "assets/c226e682b734a4b939562fcaf/logo.png",
+            "name": "Paid",
+            "status": "active",
+            "symbol": "PAID",
+            "type": "Solana",
+            "address": "98kfF7rmsg1QDUEoCqNE7g7M1FdrTt92TEp2CLzypump",
+            "explorer": "https://explorer.solana.com/address/98kfF7rmsg1QDUEoCqNE7g7M1FdrTt92TEp2CLzypump"
+        },
+        {
+            "asset_id": "c1f8c44b2554f4c3a9ddcddc3",
+            "chainId": 1,
+            "decimals": 6,
+            "default": false,
+            "displayDecimals": 4,
+            "externalId": "nearkat-2",
+            "logoUri": "assets/c1f8c44b2554f4c3a9ddcddc3/logo.png",
+            "name": "NearKat",
+            "status": "active",
+            "symbol": "NEARKAT",
+            "type": "Solana",
+            "address": "6UtY9iTZMQQ5QZVrbzFnNaJntV7oySm9k97mvwnuZcxr",
+            "explorer": "https://explorer.solana.com/address/6UtY9iTZMQQ5QZVrbzFnNaJntV7oySm9k97mvwnuZcxr"
         }
     ],
     "logoUri": "",
     "name": "Iron Wallet: Solana",
     "status": "active",
-    "timestamp": "2026-10-06T10:15:06.558Z",
+    "timestamp": "2026-10-21T08:29:18.153Z",
     "version": {
         "major": 0,
         "minor": 4,
-        "patch": 7
+        "patch": 8
     }
 }

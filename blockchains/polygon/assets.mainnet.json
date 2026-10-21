@@ -4016,15 +4016,30 @@
             "status": "active",
             "symbol": "tgbp",
             "type": "Polygon"
+        },
+        {
+            "asset_id": "c14f1290a82244a5fa7079288",
+            "chainId": 137,
+            "decimals": 18,
+            "default": false,
+            "displayDecimals": 4,
+            "externalId": "telcoin-2",
+            "logoUri": "assets/c14f1290a82244a5fa7079288/logo.png",
+            "name": "Telcoin",
+            "status": "active",
+            "symbol": "TEL",
+            "type": "Polygon",
+            "address": "0x7E13B43065380aCdeC1c2d138c579cbBbafA0731",
+            "explorer": "https://polygonscan.com/token/0x7E13B43065380aCdeC1c2d138c579cbBbafA0731"
         }
     ],
     "logoUri": "",
     "name": "Iron Wallet: Polygon",
     "status": "active",
-    "timestamp": "2026-10-06T10:15:06.558Z",
+    "timestamp": "2026-10-21T08:29:18.153Z",
     "version": {
         "major": 0,
         "minor": 3,
-        "patch": 4
+        "patch": 5
     }
 }

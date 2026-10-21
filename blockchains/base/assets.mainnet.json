@@ -7511,15 +7511,75 @@
             "status": "active",
             "symbol": "tgbp",
             "type": "Base"
+        },
+        {
+            "asset_id": "cf40a4fb8ff8f4c9aafd9165e",
+            "chainId": 8453,
+            "decimals": 18,
+            "default": false,
+            "displayDecimals": 4,
+            "externalId": "katana-network-token",
+            "logoUri": "assets/cf40a4fb8ff8f4c9aafd9165e/logo.png",
+            "name": "Katana",
+            "status": "active",
+            "symbol": "KAT",
+            "type": "Base",
+            "address": "0xD5390300c5DB71F80d46f0fA9983Fc72D4d1e3da",
+            "explorer": "https://basescan.org/token/0xD5390300c5DB71F80d46f0fA9983Fc72D4d1e3da"
+        },
+        {
+            "asset_id": "cca6fec94790b4455bd376dff",
+            "chainId": 8453,
+            "decimals": 18,
+            "default": false,
+            "displayDecimals": 4,
+            "externalId": "blue-chip-4",
+            "logoUri": "assets/cca6fec94790b4455bd376dff/logo.png",
+            "name": "BLUE CHIP",
+            "status": "active",
+            "symbol": "BLUECHIP",
+            "type": "Base",
+            "address": "0xB200000000000000000000cFbdF64a8706a94a01",
+            "explorer": "https://basescan.org/token/0xB200000000000000000000cFbdF64a8706a94a01"
+        },
+        {
+            "asset_id": "ccfd8852e8c644136bfc6a616",
+            "chainId": 8453,
+            "decimals": 18,
+            "default": false,
+            "displayDecimals": 4,
+            "externalId": "telcoin-2",
+            "logoUri": "assets/ccfd8852e8c644136bfc6a616/logo.png",
+            "name": "Telcoin",
+            "status": "active",
+            "symbol": "TEL",
+            "type": "Base",
+            "address": "0x7E13B43065380aCdeC1c2d138c579cbBbafA0731",
+            "explorer": "https://basescan.org/token/0x7E13B43065380aCdeC1c2d138c579cbBbafA0731"
+        },
+        {
+            "asset_id": "ce1af400458ea49cca1130dcc",
+            "chainId": 8453,
+            "decimals": 18,
+            "default": false,
+            "displayDecimals": 4,
+            "externalId": "whuffie",
+            "logoUri": "assets/ce1af400458ea49cca1130dcc/logo.png",
+            "name": "Whuffie",
+            "status": "active",
+            "symbol": "WHUF",
+            "type": "Base",
+            "address": "0xeeee77bC7e82c0d4166d52F58239D4c5Bf41eeee",
+            "explorer": "https://basescan.org/token/0xeeee77bC7e82c0d4166d52F58239D4c5Bf41eeee"
         }
     ],
     "logoUri": "",
     "name": "Iron Wallet: Base",
     "status": "active",
-    "timestamp": "2026-10-06T10:15:06.558Z",
+    "timestamp": "2026-10-21T08:29:18.153Z",
     "version": {
         "major": 0,
         "minor": 2,
-        "patch": 0
+        "patch": 1
     }
 }
