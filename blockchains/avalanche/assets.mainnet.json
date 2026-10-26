@@ -2131,10 +2131,10 @@
     "logoUri": "",
     "name": "Iron Wallet: Avalanche Mainnet",
     "status": "active",
-    "timestamp": "2026-10-06T10:15:06.558Z",
+    "timestamp": "2026-10-26T09:49:53.812Z",
     "version": {
         "major": 0,
         "minor": 2,
-        "patch": 5
+        "patch": 6
     }
 }

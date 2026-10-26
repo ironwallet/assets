@@ -12101,15 +12101,90 @@
             "status": "active",
             "symbol": "tgbp",
             "type": "Solana"
+        },
+        {
+            "asset_id": "ca5b5a10266d2463f922047e8",
+            "chainId": 1,
+            "decimals": 6,
+            "default": false,
+            "displayDecimals": 4,
+            "externalId": "claudia-2",
+            "logoUri": "assets/ca5b5a10266d2463f922047e8/logo.png",
+            "name": "Claudia",
+            "status": "active",
+            "symbol": "CLAUDIA",
+            "type": "Solana",
+            "address": "2j5SaS7xy776qCBpyPQbZjyQSAtKiFgrwjfErthnW2ZM",
+            "explorer": "https://explorer.solana.com/address/2j5SaS7xy776qCBpyPQbZjyQSAtKiFgrwjfErthnW2ZM"
+        },
+        {
+            "asset_id": "c3d6d4cc56fab401c8d50bb26",
+            "chainId": 1,
+            "decimals": 9,
+            "default": false,
+            "displayDecimals": 4,
+            "externalId": "ishares-china-large-cap-etf-ondo-tokenized",
+            "logoUri": "assets/c3d6d4cc56fab401c8d50bb26/logo.png",
+            "name": "iShares China Large-Cap ETF (Ondo Tokenized)",
+            "status": "active",
+            "symbol": "FXION",
+            "type": "Solana",
+            "address": "CeFbGYXDmkyfo1TXXzzZ512mtnCCewNohu6V15vondo",
+            "explorer": "https://explorer.solana.com/address/CeFbGYXDmkyfo1TXXzzZ512mtnCCewNohu6V15vondo"
+        },
+        {
+            "asset_id": "c73118b9820ff475890eb62f4",
+            "chainId": 1,
+            "decimals": 6,
+            "default": false,
+            "displayDecimals": 4,
+            "externalId": "embercurve",
+            "logoUri": "assets/c73118b9820ff475890eb62f4/logo.png",
+            "name": "embercurve",
+            "status": "active",
+            "symbol": "EMBER",
+            "type": "Solana",
+            "address": "5dvXTZ5qwgafnHtwu3Ls3QrWx1U4LQsFeCuJgkk4QEC6",
+            "explorer": "https://explorer.solana.com/address/5dvXTZ5qwgafnHtwu3Ls3QrWx1U4LQsFeCuJgkk4QEC6"
+        },
+        {
+            "asset_id": "c83a6ff291b5a42fbb38466c6",
+            "chainId": 1,
+            "decimals": 6,
+            "default": false,
+            "displayDecimals": 4,
+            "externalId": "darkswap",
+            "logoUri": "assets/c83a6ff291b5a42fbb38466c6/logo.png",
+            "name": "DarkSwap",
+            "status": "active",
+            "symbol": "DARK",
+            "type": "Solana",
+            "address": "7KEPApdbBMByrmqihz3bht2uMhFQcatjfSFQCKq66kH3",
+            "explorer": "https://explorer.solana.com/address/7KEPApdbBMByrmqihz3bht2uMhFQcatjfSFQCKq66kH3"
+        },
+        {
+            "asset_id": "c45d944d8e2f247d39aae403b",
+            "chainId": 1,
+            "decimals": 6,
+            "default": false,
+            "displayDecimals": 4,
+            "externalId": "quantum-inu-2",
+            "logoUri": "assets/c45d944d8e2f247d39aae403b/logo.png",
+            "name": "Quantum Inu",
+            "status": "active",
+            "symbol": "QI",
+            "type": "Solana",
+            "address": "8TiMkgvsrat9tM2esko8zVTt99LZLpefUM4SnZaziXaQ",
+            "explorer": "https://explorer.solana.com/address/8TiMkgvsrat9tM2esko8zVTt99LZLpefUM4SnZaziXaQ"
         }
     ],
     "logoUri": "",
     "name": "Iron Wallet: Solana",
     "status": "active",
-    "timestamp": "2026-10-06T10:15:06.558Z",
+    "timestamp": "2026-10-26T09:49:53.812Z",
     "version": {
         "major": 0,
         "minor": 4,
-        "patch": 7
+        "patch": 8
     }
 }

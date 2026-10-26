@@ -15,11 +15,11 @@
       "blockchain": "ethereum",
       "chainId": 1,
       "list": "assets.mainnet.json",
-      "timestamp": "2026-10-06T10:15:06.558Z",
+      "timestamp": "2026-10-26T09:49:53.812Z",
       "version": {
         "major": 0,
         "minor": 6,
-        "patch": 7
+        "patch": 8
       }
     },
     {
@@ -59,11 +59,11 @@
       "blockchain": "bsc",
       "chainId": 56,
       "list": "assets.mainnet.json",
-      "timestamp": "2026-10-06T10:15:06.558Z",
+      "timestamp": "2026-10-26T09:49:53.812Z",
       "version": {
         "major": 0,
         "minor": 3,
-        "patch": 6
+        "patch": 7
       }
     },
     {
@@ -103,11 +103,11 @@
       "blockchain": "avalanche",
       "chainId": 43114,
       "list": "assets.mainnet.json",
-      "timestamp": "2026-10-06T10:15:06.558Z",
+      "timestamp": "2026-10-26T09:49:53.812Z",
       "version": {
         "major": 0,
         "minor": 2,
-        "patch": 5
+        "patch": 6
       }
     },
     {
@@ -125,11 +125,11 @@
       "blockchain": "polygon",
       "chainId": 137,
       "list": "assets.mainnet.json",
-      "timestamp": "2026-10-06T10:15:06.558Z",
+      "timestamp": "2026-10-26T09:49:53.812Z",
       "version": {
         "major": 0,
         "minor": 3,
-        "patch": 4
+        "patch": 5
       }
     },
     {
@@ -147,11 +147,11 @@
       "blockchain": "solana",
       "chainId": 1,
       "list": "assets.mainnet.json",
-      "timestamp": "2026-10-06T10:15:06.558Z",
+      "timestamp": "2026-10-26T09:49:53.812Z",
       "version": {
         "major": 0,
         "minor": 4,
-        "patch": 7
+        "patch": 8
       }
     },
     {
@@ -169,11 +169,11 @@
       "blockchain": "arbitrum",
       "chainId": 42161,
       "list": "assets.mainnet.json",
-      "timestamp": "2026-10-06T10:15:06.558Z",
+      "timestamp": "2026-10-26T09:49:53.812Z",
       "version": {
         "major": 0,
         "minor": 1,
-        "patch": 5
+        "patch": 6
       }
     },
     {
@@ -257,11 +257,11 @@
       "blockchain": "base",
       "chainId": 8453,
       "list": "assets.mainnet.json",
-      "timestamp": "2026-10-06T10:15:06.558Z",
+      "timestamp": "2026-10-26T09:49:53.812Z",
       "version": {
         "major": 0,
         "minor": 2,
-        "patch": 0
+        "patch": 1
       }
     },
     {
