@@ -4186,10 +4186,10 @@
     "logoUri": "",
     "name": "Iron Wallet: Arbitrum Mainnet",
     "status": "active",
-    "timestamp": "2026-10-06T10:15:06.558Z",
+    "timestamp": "2026-11-01T06:05:06.833Z",
     "version": {
         "major": 0,
         "minor": 1,
-        "patch": 5
+        "patch": 6
     }
 }

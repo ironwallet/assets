@@ -16804,7 +16804,7 @@
             "decimals": 18,
             "default": false,
             "displayDecimals": 4,
-            "explorer": "https://platform.arkhamintelligence.com/explorer/token/ripple-usd",
+            "explorer": "https://etherscan.io/token/0x8292Bb45bf1Ee4d140127049757C2E0fF06317eD",
             "externalId": "ripple-usd",
             "logoUri": "assets/cm88r4jr8000301mto31vmatd/logo.png",
             "name": "Ripple USD",
@@ -16834,7 +16834,7 @@
             "decimals": 18,
             "default": false,
             "displayDecimals": 4,
-            "explorer": "https://basescan.org/token/0x06a63c498ef95ad1fa4fff841955e512b4b2198a",
+            "explorer": "https://etherscan.io/token/0x7A78c790250FEf60ce7E8Ef85557d67Cc4216A52",
             "externalId": "gluteus-maximus-by-virtuals",
             "logoUri": "assets/cm8gzmoh7000001obb2c8s52q/logo.png",
             "name": "Gluteus Maximus by Virtuals",
@@ -23876,15 +23876,60 @@
             "status": "active",
             "symbol": "tgbp",
             "type": "ERC20"
+        },
+        {
+            "asset_id": "cb5ac07895d9d438a84d22c5c",
+            "chainId": 1,
+            "decimals": 18,
+            "default": false,
+            "displayDecimals": 4,
+            "externalId": "yellow",
+            "logoUri": "assets/cb5ac07895d9d438a84d22c5c/logo.png",
+            "name": "Yellow",
+            "status": "active",
+            "symbol": "YELLOW",
+            "type": "ERC20",
+            "address": "0x236eB848C95b231299B4AA9f56c73D6893462720",
+            "explorer": "https://etherscan.io/token/0x236eB848C95b231299B4AA9f56c73D6893462720"
+        },
+        {
+            "asset_id": "cf03a60c699ac424abdf03ac2",
+            "chainId": 1,
+            "decimals": 18,
+            "default": false,
+            "displayDecimals": 4,
+            "externalId": "dohrnii-2",
+            "logoUri": "assets/cf03a60c699ac424abdf03ac2/logo.png",
+            "name": "Dohrnii",
+            "status": "active",
+            "symbol": "DHN",
+            "type": "ERC20",
+            "address": "0x3A54E9B53f32FD3441a87E1A95C853E595c8326f",
+            "explorer": "https://etherscan.io/token/0x3A54E9B53f32FD3441a87E1A95C853E595c8326f"
+        },
+        {
+            "asset_id": "c5208b1aeda94444caafda26a",
+            "chainId": 1,
+            "decimals": 18,
+            "default": false,
+            "displayDecimals": 4,
+            "externalId": "zip-coin",
+            "logoUri": "assets/c5208b1aeda94444caafda26a/logo.png",
+            "name": "Zip coin",
+            "status": "active",
+            "symbol": "ZC",
+            "type": "ERC20",
+            "address": "0x4E67DB19044549fF420860834c91b45BaD298722",
+            "explorer": "https://etherscan.io/token/0x4E67DB19044549fF420860834c91b45BaD298722"
         }
     ],
     "logoUri": "",
     "name": "Iron Wallet: Ethereum",
     "status": "active",
-    "timestamp": "2026-10-06T10:15:06.558Z",
+    "timestamp": "2026-11-01T06:05:06.833Z",
     "version": {
         "major": 0,
         "minor": 6,
-        "patch": 7
+        "patch": 8
     }
 }
