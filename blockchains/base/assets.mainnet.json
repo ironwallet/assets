@@ -2767,7 +2767,7 @@
             "explorer": "https://basescan.org/token/0xfe550bffb51eb645ea3b324d772a19ac449e92c5",
             "externalId": "ix-swap",
             "logoUri": "assets/cmlb10fjc00utf0fmewbn4675/logo.png",
-            "name": "IXS",
+            "name": "IXS [OLD]",
             "status": "active",
             "symbol": "ixs",
             "type": "Base"
@@ -7511,15 +7511,90 @@
             "status": "active",
             "symbol": "tgbp",
             "type": "Base"
+        },
+        {
+            "asset_id": "c2e0ce271fea743d4aa1d39c0",
+            "chainId": 8453,
+            "decimals": 8,
+            "default": false,
+            "displayDecimals": 4,
+            "externalId": "sandisk-coinbase-tokenized-stock",
+            "logoUri": "assets/c2e0ce271fea743d4aa1d39c0/logo.png",
+            "name": "SanDisk (Coinbase Tokenized Stock)",
+            "status": "active",
+            "symbol": "SNDKC",
+            "type": "Base",
+            "address": "0xb200000000000000000000397293Cb8cda9a10c5",
+            "explorer": "https://basescan.org/token/0xb200000000000000000000397293Cb8cda9a10c5"
+        },
+        {
+            "asset_id": "cf664f5e2914c475799067368",
+            "chainId": 8453,
+            "decimals": 8,
+            "default": false,
+            "displayDecimals": 4,
+            "externalId": "microsoft-coinbase-tokenized-stock",
+            "logoUri": "assets/cf664f5e2914c475799067368/logo.png",
+            "name": "Microsoft (Coinbase Tokenized Stock)",
+            "status": "active",
+            "symbol": "MSFTC",
+            "type": "Base",
+            "address": "0xB200000000000000000000Ab99cFa739E253872B",
+            "explorer": "https://basescan.org/token/0xB200000000000000000000Ab99cFa739E253872B"
+        },
+        {
+            "asset_id": "cc7683ba8bb2744d7a762d6c9",
+            "chainId": 8453,
+            "decimals": 8,
+            "default": false,
+            "displayDecimals": 4,
+            "externalId": "spacex-coinbase-tokenized-stock",
+            "logoUri": "assets/cc7683ba8bb2744d7a762d6c9/logo.png",
+            "name": "SpaceX (Coinbase Tokenized Stock)",
+            "status": "active",
+            "symbol": "SPCXC",
+            "type": "Base",
+            "address": "0xb2000000000000000000007b9fcbd005511aCBd5",
+            "explorer": "https://basescan.org/token/0xb2000000000000000000007b9fcbd005511aCBd5"
+        },
+        {
+            "asset_id": "c77c586ab773a429e82441ac7",
+            "chainId": 8453,
+            "decimals": 18,
+            "default": false,
+            "displayDecimals": 4,
+            "externalId": "bullbit",
+            "logoUri": "assets/c77c586ab773a429e82441ac7/logo.png",
+            "name": "Bullbit",
+            "status": "active",
+            "symbol": "BUBI",
+            "type": "Base",
+            "address": "0xc5E4A819113074b5C3B48f1F873Cf51aB19FCEd2",
+            "explorer": "https://basescan.org/token/0xc5E4A819113074b5C3B48f1F873Cf51aB19FCEd2"
+        },
+        {
+            "asset_id": "c286d8fe2ec634dbb8975f9a1",
+            "chainId": 8453,
+            "decimals": 8,
+            "default": false,
+            "displayDecimals": 4,
+            "externalId": "tesla-coinbase-tokenized-stocks",
+            "logoUri": "assets/c286d8fe2ec634dbb8975f9a1/logo.png",
+            "name": "Tesla (Coinbase Tokenized Stocks)",
+            "status": "active",
+            "symbol": "TSLAC",
+            "type": "Base",
+            "address": "0xb2000000000000000000001e800a7f5189430cD0",
+            "explorer": "https://basescan.org/token/0xb2000000000000000000001e800a7f5189430cD0"
         }
     ],
     "logoUri": "",
     "name": "Iron Wallet: Base",
     "status": "active",
-    "timestamp": "2026-10-06T10:15:06.558Z",
+    "timestamp": "2026-11-01T06:05:06.833Z",
     "version": {
         "major": 0,
         "minor": 2,
-        "patch": 0
+        "patch": 1
     }
 }
